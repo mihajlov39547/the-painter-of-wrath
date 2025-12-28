@@ -1,37 +1,111 @@
-# The Painter of Wrath (LaTeX)
+# The Painter of Wrath (LaTeX Project)
 
-This workspace is set up to write a 19-chapter book in LaTeX.
+**The Painter of Wrath** is a non-commercial, academic/critical literary adaptation and reinterpretation of *Deus Irae* (1976) by Philip K. Dick and Roger Zelazny.
 
-## Structure
+This repository contains the complete LaTeX source for a rewritten, reframed, and expanded edition intended for study, critical engagement, and preservation. It is **not authorized**, **not monetized**, and **not offered for sale**. Its purpose is scholarly and literary, not commercial.
 
-- `main.tex` — entrypoint (includes frontmatter, 19 chapters, backmatter)
-- `frontmatter/` — title + other front sections
-- `chapters/` — `chap01.tex` … `chap19.tex`
-- `backmatter/` — end matter (currently `notes.tex`)
+---
 
-## Build a PDF
+## About This Edition
 
-If you have a LaTeX distribution installed (MiKTeX or TeX Live), from this folder run:
+This project does **not** seek to replace or supersede the original novel. Instead, it treats *Deus Irae* as a living text whose ideas—wrath, belief, institutional faith, and moral responsibility—can be re-engaged through transformation.
 
-```powershell
+Key characteristics of this adaptation:
+
+- Modernized cadence and language where appropriate
+- Structural reframing for narrative continuity
+- A newly written **Prologue**
+- **Three Epilogues** exploring consequence rather than revelation
+- An **archival artifact** suggesting institutional containment of doubt
+- A concluding **Notes** section explaining intent and ambiguity
+
+Readers are encouraged to seek out and read the original *Deus Irae* alongside this work.
+
+---
+
+## Repository Structure
+
+```
+.
+├── main.tex                # Master document
+├── frontmatter/            # Title page, copyright, etc.
+│   ├── title.tex
+│   └── copyright.tex
+├── chapters/               # Prologue + Chapters 1–19
+│   ├── prologue.tex
+│   ├── chap01.tex
+│   ├── ...
+│   └── chap19.tex
+├── backmatter/             # Epilogues, Notes, Back Cover
+│   ├── epilogues.tex
+│   ├── notes.tex
+│   └── backcover.tex
+└── README.md               # This file
+```
+
+---
+
+## Building the PDF
+
+You will need a LaTeX distribution such as **TeX Live** or **MiKTeX**.
+
+From the project root, run:
+
+```bash
 pdflatex main.tex
 pdflatex main.tex
 ```
 
-This produces `main.pdf`.
+Running it twice ensures the table of contents and references are correct.
 
-## (Later) Convert to EPUB
+The output will be:
 
-A common approach is using Pandoc to convert LaTeX → EPUB:
+```
+main.pdf
+```
 
-```powershell
+---
+
+## Optional: EPUB Conversion
+
+You may convert the project to EPUB for **personal, non-commercial use** using Pandoc:
+
+```bash
 pandoc main.tex -o The-Painter-of-Wrath.epub
 ```
 
 Notes:
-- EPUB conversion quality depends on how complex your LaTeX is.
-- If you add lots of custom LaTeX, you may need to tweak the Pandoc command or switch to a LaTeX-to-HTML workflow first.
+- Conversion quality depends on LaTeX complexity.
+- Minor formatting adjustments may be required for best results.
+- The EPUB must remain **free** and clearly labeled as a critical adaptation.
 
-## Writing
+---
 
-Start writing inside `chapters/chap01.tex` (and onward). Update chapter titles by editing the `\chapter{...}` line in each file.
+## License & Use
+
+- This project is shared freely.
+- No commercial use is permitted.
+- No claim of ownership over the original text or characters is made.
+- All rights to *Deus Irae* remain with the respective rights holders.
+
+This adaptation exists in the spirit of:
+- literary preservation
+- scholarly dialogue
+- homage to Philip K. Dick and Roger Zelazny
+
+---
+
+## Authorship of This Adaptation
+
+**The Painter of Wrath**  
+Rewritten, reframed, and expanded by **Marko Mihajlović**  
+Non-commercial academic/critical edition
+
+---
+
+## Final Note
+
+> A face can become law.  
+> A story can become a prison.  
+> But a question—properly asked—can still open a door.
+

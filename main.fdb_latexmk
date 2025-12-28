@@ -1,12 +1,12 @@
 # Fdb version 4
-["pdflatex"] 1766929233.43102 "c:/Users/Simbyot/Downloads/My Books/The Painter of Wrath/main.tex" "main.pdf" "main" 1766929235.17031 0
+["pdflatex"] 1766929695.1869 "c:/Users/Simbyot/Downloads/My Books/The Painter of Wrath/main.tex" "main.pdf" "main" 1766929696.88337 0
   "backmatter/artifact.tex" 1766924981 1755 43001c4dc641b60dbe3122755129406b ""
-  "backmatter/backcover.tex" 1766929232 698 46c4c601400617063719edbb910988ac ""
+  "backmatter/backcover.tex" 1766929497 882 8680c605cce0c23b4819a4a486a4af4c ""
   "backmatter/epilogue1.tex" 1766927563 3922 84a6c77a6f29c5231ddedd1c0b68a8e2 ""
   "backmatter/epilogue2.tex" 1766925557 3548 5222a3cd32dfa236e9101f1d13e3e48d ""
   "backmatter/epilogue3.tex" 1766925562 2354 e671475754292f65476829cd7a63dd34 ""
-  "backmatter/epilogues.tex" 1766925593 233 a552b010f7c9e962411003986e467bab ""
-  "backmatter/notes.tex" 1766928363 4901 6d9cc8a48295628f2830ee89e75c0cbb ""
+  "backmatter/epilogues.tex" 1766929673 251 fbc7bf07d39ba0404a9ba9323000d091 ""
+  "backmatter/notes.tex" 1766929694 4944 2b1dd69d0a71b68d01cd84152d1c7386 ""
   "c:/Users/Simbyot/Downloads/My Books/The Painter of Wrath/main.tex" 1766928897 1150 9eeeb168a737a22d3484aa0cbef09015 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1763912426 2375 baa924870cfb487815765f9094cf3728 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1763912426 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -101,11 +101,11 @@
   "chapters/chap19.tex" 1766927563 2645 aee0fb037252fdd407c947fa0e32b421 ""
   "chapters/prologue.tex" 1766926198 4292 7e833e56ec133c141d839a59d1b2c7f2 ""
   "frontmatter/copyright.tex" 1766928754 998 5db6c518447d363c057fe5aa8b615bbd ""
-  "frontmatter/title.tex" 1766928754 500 990993fa8733d790d2b7943469435996 ""
-  "main.aux" 1766929235 4414 55c3e76428a5db8697c971135887c07a "pdflatex"
-  "main.out" 1766929235 3107 0d9906503bb5a82490a1a3240230eafb "pdflatex"
+  "frontmatter/title.tex" 1766929466 512 ea7cf922f6a0d12e37509795b7070580 ""
+  "main.aux" 1766929696 4414 55c3e76428a5db8697c971135887c07a "pdflatex"
+  "main.out" 1766929696 3107 0d9906503bb5a82490a1a3240230eafb "pdflatex"
   "main.tex" 1766928897 1150 9eeeb168a737a22d3484aa0cbef09015 ""
-  "main.toc" 1766929235 1741 deadbe4d2562df6182a84747f24db5e4 "pdflatex"
+  "main.toc" 1766929696 1741 deadbe4d2562df6182a84747f24db5e4 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
