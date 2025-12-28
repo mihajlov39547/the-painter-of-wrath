@@ -132,6 +132,8 @@ BibTeX:
 	title     = {The Painter of Wrath: A Non-Commercial Critical Adaptation of Philip K. Dick and Roger Zelazny's Deus Irae},
 	author    = {Mihajlović, Marko},
 	year      = {2025},
+	doi       = {10.5281/zenodo.18076255},
+	url       = {https://doi.org/10.5281/zenodo.18076255},
 	note      = {Rewritten, reframed, and expanded critical adaptation},
 }
 ```

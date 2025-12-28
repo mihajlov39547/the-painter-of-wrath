@@ -4,6 +4,8 @@ message: >-
 title: The Painter of Wrath
 version: 2025
 type: book
+doi: 10.5281/zenodo.18076255
+url: https://doi.org/10.5281/zenodo.18076255
 authors:
   - family-names: Mihajlović
     given-names: Marko
@@ -15,6 +17,8 @@ abstract: >-
 preferred-citation:
   type: book
   title: The Painter of Wrath
+  doi: 10.5281/zenodo.18076255
+  url: https://doi.org/10.5281/zenodo.18076255
   author:
     - family-names: Mihajlović
       given-names: Marko
