@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: >-
+  If you use this work for research or teaching, please cite it as below.
+title: The Painter of Wrath
+version: 2025
+type: book
+authors:
+  - family-names: Mihajlović
+    given-names: Marko
+year-released: 2025
+license: CC-BY-NC-ND-4.0
+abstract: >-
+  Rewritten, reframed, and expanded non-commercial critical adaptation of
+  Deus Irae (1976) by Philip K. Dick and Roger Zelazny.
+preferred-citation:
+  type: book
+  title: The Painter of Wrath
+  author:
+    - family-names: Mihajlović
+      given-names: Marko
+  year: 2025
+  note: >-
+    Rewritten, reframed, and expanded non-commercial critical adaptation of
+    Deus Irae by Philip K. Dick and Roger Zelazny.

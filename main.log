@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.23)  28 DEC 2025 14:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.23)  28 DEC 2025 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -251,30 +251,30 @@ Package hyperref Info: Link coloring OFF on input line 15.
 
 
 {c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]) (./frontmatter/copyright.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 12.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 13.
 (c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--20
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
@@ -282,7 +282,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.32 \clearpage
+l.33 \clearpage
                 [1
 
 {c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]) (./main.toc [2
@@ -428,7 +428,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,1060b,541s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (76 pages, 279092 bytes).
+Output written on main.pdf (76 pages, 279316 bytes).
 PDF statistics:
  531 PDF objects out of 1000 (max. 8388607)
  436 compressed objects within 5 object streams

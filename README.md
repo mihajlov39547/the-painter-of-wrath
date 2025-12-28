@@ -38,6 +38,10 @@ Readers are encouraged to seek out and read the original *Deus Irae* alongside t
 │   └── chap19.tex
 ├── backmatter/             # Epilogues, Notes, Back Cover
 │   ├── epilogues.tex
+│   ├── epilogue1.tex
+│   ├── artifact.tex
+│   ├── epilogue2.tex
+│   ├── epilogue3.tex
 │   ├── notes.tex
 │   └── backcover.tex
 └── README.md               # This file
@@ -57,6 +61,8 @@ pdflatex main.tex
 ```
 
 Running it twice ensures the table of contents and references are correct.
+
+Note: The manuscript files use LaTeX-safe punctuation (e.g., ``quotes'' and `---` dashes) so they compile cleanly with `pdflatex`.
 
 The output will be:
 
@@ -83,8 +89,11 @@ Notes:
 
 ## License & Use
 
+See [LICENCE](LICENCE) for the full licensing and attribution terms.
+
 - This project is shared freely.
 - No commercial use is permitted.
+- No distribution of modified material is permitted.
 - No claim of ownership over the original text or characters is made.
 - All rights to *Deus Irae* remain with the respective rights holders.
 
@@ -103,9 +112,30 @@ Non-commercial academic/critical edition
 
 ---
 
+## Citation
+
+GitHub uses [CITATION.cff](CITATION.cff). Suggested citation:
+
+Mihajlović, Marko. *The Painter of Wrath*. Rewritten, reframed, and expanded
+non-commercial critical adaptation of *Deus Irae* by Philip K. Dick and
+Roger Zelazny. 2025.
+
+BibTeX:
+
+```bibtex
+@book{mihajlovic2025painter_of_wrath,
+	title     = {The Painter of Wrath: A Non-Commercial Critical Adaptation of Philip K. Dick and Roger Zelazny's Deus Irae},
+	author    = {Mihajlović, Marko},
+	year      = {2025},
+	note      = {Rewritten, reframed, and expanded critical adaptation},
+}
+```
+
+---
+
 ## Final Note
 
 > A face can become law.  
 > A story can become a prison.  
-> But a question—properly asked—can still open a door.
+> But a question---properly asked---can still open a door.
 
