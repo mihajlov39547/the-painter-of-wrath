@@ -1,0 +1,52 @@
+% The Painter of Wrath — book project
+% Build (PDF): pdflatex main.tex  (run twice for ToC)
+\documentclass[12pt,oneside]{book}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{newunicodechar}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+
+\title{The Painter of Wrath}
+\author{}
+\date{}
+
+\begin{document}
+
+% --- Front matter ---
+\frontmatter
+\input{frontmatter/title}
+\tableofcontents
+\clearpage
+
+% --- Main matter ---
+\mainmatter
+\input{chapters/prologue}
+\input{chapters/chap01}
+\input{chapters/chap02}
+\input{chapters/chap03}
+\input{chapters/chap04}
+\input{chapters/chap05}
+\input{chapters/chap06}
+\input{chapters/chap07}
+\input{chapters/chap08}
+\input{chapters/chap09}
+\input{chapters/chap10}
+\input{chapters/chap11}
+\input{chapters/chap12}
+\input{chapters/chap13}
+\input{chapters/chap14}
+\input{chapters/chap15}
+\input{chapters/chap16}
+\input{chapters/chap17}
+\input{chapters/chap18}
+\input{chapters/chap19}
+
+% --- Back matter ---
+\backmatter
+\input{backmatter/epilogues}
+\input{backmatter/notes}
+
+\end{document}
