@@ -1,3 +1,8 @@
+[![DOI](https://zenodo.org/badge/1124190613.svg)](https://doi.org/10.5281/zenodo.18076255)
+[![GitHub release](https://img.shields.io/github/v/release/mihajlov39547/the-painter-of-wrath)](https://github.com/mihajlov39547/the-painter-of-wrath/releases/tag/v1.0)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 # The Painter of Wrath (LaTeX Project)
 
 **The Painter of Wrath** is a non-commercial, academic/critical literary adaptation and reinterpretation of *Deus Irae* (1976) by Philip K. Dick and Roger Zelazny.
