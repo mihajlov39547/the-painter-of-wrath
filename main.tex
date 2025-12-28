@@ -1,10 +1,9 @@
-% The Painter of Wrath — book project
+% The Painter of Wrath -- book project
 % Build (PDF): pdflatex main.tex  (run twice for ToC)
 \documentclass[12pt,oneside]{book}
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage{newunicodechar}
 \usepackage{lmodern}
 \usepackage{microtype}
 \usepackage[hidelinks]{hyperref}
@@ -18,6 +17,7 @@
 % --- Front matter ---
 \frontmatter
 \input{frontmatter/title}
+\input{frontmatter/copyright}
 \tableofcontents
 \clearpage
 
@@ -48,5 +48,6 @@
 \backmatter
 \input{backmatter/epilogues}
 \input{backmatter/notes}
+\input{backmatter/backcover}
 
 \end{document}
