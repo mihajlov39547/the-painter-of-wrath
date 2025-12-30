@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.23)  28 DEC 2025 15:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.23)  30 DEC 2025 15:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -409,7 +409,12 @@ Chapter 19.
 
 
 
-] [70]) (./backmatter/backcover.tex [71] [72
+] [70]) (./backmatter/backcover.tex [71]
+Overfull \hbox (2.92139pt too wide) in paragraph at lines 34--34
+[]\T1/lmr/m/it/12 (-20) This work is licensed under a Creative Commons Attribution--
+ []
+
+[72
 
 ]) (./main.aux)
  ***********
@@ -428,7 +433,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,1060b,541s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (76 pages, 279316 bytes).
+Output written on main.pdf (76 pages, 280238 bytes).
 PDF statistics:
  531 PDF objects out of 1000 (max. 8388607)
  436 compressed objects within 5 object streams
